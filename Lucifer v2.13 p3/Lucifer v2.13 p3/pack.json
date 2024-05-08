@@ -1,0 +1,28 @@
+{
+    "WhiteList": [ 1058, 1094, 1096, 1098, 1828, 3870, 7058, 11286, 13890 ],
+    "World Lock": {
+        "id": "world_lock",
+        "price": 2000,
+        "items": [ 242 ]
+    },
+    "Pristine Scythe": {
+        "id": "pristine_scythe",
+        "price": 5000,
+        "items": [ 6244 ]
+    },
+    "Signal Jammer": {
+        "id": "signal_jammer",
+        "price": 2000,
+        "items": [ 226 ]
+    },
+    "Diamond Bonanza": {
+        "id": "Diamond_Provider",
+        "price": 45000,
+        "items": [ 10450 ]
+    },
+    "Winterfest Calendar": {
+        "id": "winterfest_calendar_2023",
+        "price": 65000,
+        "items": [ 14138 ]
+    }
+}
